@@ -22,7 +22,6 @@ This repository contains the full analysis, data products, and documentation for
 5. [Repository Structure](#repository-structure)
 6. [How to Reproduce the Analysis](#how-to-reproduce-the-analysis)
 7. [Future Work](#future-work)
-8. [License](#license)
 
 ---
 
@@ -183,7 +182,3 @@ platais-2-photometry/
 * **Deeper Surveys:** Include fainter members for a complete census
 
 ---
-
-## 📄 License
-
-Distributed under the [MIT License](LICENSE).
