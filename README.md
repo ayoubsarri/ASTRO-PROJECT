@@ -57,7 +57,7 @@ The analysis pipeline is implemented in Python using:
 * SciPy
 * Matplotlib
 
-Full workflow in [`code/HR-diagram.ipynb`](code/HR-diagram.ipynb).
+Full workflow in [`code/HR-diagram.ipynb`](/HR-diagram.ipynb).
 
 ### Data Extraction
 
